@@ -1,8 +1,8 @@
 // app/App.tsx (or app/index.tsx)
 
-import React from 'react';
-import { View } from 'react-native';
-import HomeScreen from './HomeScreen';
+import React from "react";
+import { View } from "react-native";
+import HomeScreen from "./HomeScreen/HomeScreen";
 
 const App: React.FC = () => {
   return (
